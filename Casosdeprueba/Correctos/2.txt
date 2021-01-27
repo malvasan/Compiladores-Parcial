@@ -8,11 +8,3 @@ variable2: int
 variable2 = 1
 end
 end
-
-
-
-
-
-
-
-
